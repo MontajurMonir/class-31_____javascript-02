@@ -1,9 +1,9 @@
 // Namata 1 X 5 = 5
 
-let name = "Montajur"
+let myname = "Montajur"
 let nameTwo= "Munna"
 
-console.log("My name is" +" "+ name +" "+ "Evans" +" "+ nameTwo);
+console.log("My name is" +" "+ myname +" "+ "Evans" +" "+ nameTwo);
 
 // 1 X 5 = 5
 
@@ -37,69 +37,69 @@ for(let i = 1; i <= 10; i++){
 
 
 
-// let x = 20
-// let y = 30
-// console.log(x+y)
+let x = 20
+let y = 30
+console.log(x+y)
 
 
-// // let teams = "monir,rafi,forhad,fuyad"
+// let teams = "monir,rafi,forhad,fuyad"
 
 
-// // Array 
-// let teams = ["monir","rafi","forhad","fuyad",504]
+// Array 
+let teams = ["monir","rafi","forhad","fuyad",504]
 
-// console.log(teams); 
+console.log(teams); 
 
-// console.log(teams[0]);
-// console.log(teams[2]);
-// // Array End 
-
-
-// // Object 
-// let monir = {
-//     name: "Montajur",
-//     age: 23, 
-// }
-// console.log(monir);
-
-// console.log(monir.name);
-// console.log(monir.age);
+console.log(teams[0]);
+console.log(teams[2]);
+// Array End 
 
 
-// let {name,age} = {
-//     name: "Montajur",
-//     age: 23,
-// }
+// Object 
+let monir = {
+    name: "Montajur",
+    age: 23, 
+}
+console.log(monir);
 
-// console.log(name);
-// console.log(age);
+console.log(monir.name);
+console.log(monir.age);
 
 
-// let info = [
-//     {
-//         name:"Montajur Rahman ",
-//         age: 23
-//     },
+let {name,age} = {
+    name: "Montajur",
+    age: 23,
+}
 
-//     {
-//         name:"Forhad",
-//         age: 25
-//     },
+console.log(name);
+console.log(age);
 
-//     {
-//         name:"Fuyad",
-//         age:21
-//     },
 
-//     {
-//         name:"Rafi",
-//         age:24
-//     }
-// ]
-// console.log(info);
+let info = [
+    {
+        name:"Montajur Rahman ",
+        age: 23
+    },
 
-// console.log(info[2]);
-// console.log(info[0].name);
+    {
+        name:"Forhad",
+        age: 25
+    },
+
+    {
+        name:"Fuyad",
+        age:21
+    },
+
+    {
+        name:"Rafi",
+        age:24
+    }
+]
+console.log(info);
+
+console.log(info[2]);
+console.log(info[0].name);
 
 
 
