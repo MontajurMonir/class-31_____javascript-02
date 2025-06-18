@@ -1,7 +1,36 @@
 // Namata 1 X 5 = 5
 
-console.log(1 " "+ "X" 5 = 5);
+let name = "Montajur"
+let nameTwo= "Munna"
 
+console.log("My name is" +" "+ name +" "+ "Evans" +" "+ nameTwo);
+
+// 1 X 5 = 5
+
+let namataNumber = 133
+
+console.log(1 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 1*namataNumber);
+console.log(2 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 2*namataNumber);
+console.log(3 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 3*namataNumber);
+console.log(4 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 4*namataNumber);
+console.log(5 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 5*namataNumber);
+console.log(6 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 6*namataNumber);
+console.log(7 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 7*namataNumber);
+console.log(8 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 8*namataNumber);
+console.log(9 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 9*namataNumber);
+console.log(10 +" "+ "X" +" "+ "namataNumber" +" "+ "=" +" "+ 10*namataNumber);
+
+
+// For Loop
+
+for(let i = 1; i <= 10; i++){
+    console.log(i +" "+ "X" +" "+ namataNumber +" "+ "=" +" "+ namataNumber * i);
+    
+
+}
+
+
+ 
 
 
 
